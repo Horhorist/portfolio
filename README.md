@@ -1,4 +1,4 @@
-# portfolio
+# portfolio v1.1
 You can easily have a beautiful and simple design one page portfolio🎈
 
 Feel free to use this project to make your own Portfolio. 🍯
@@ -7,4 +7,8 @@ Feel free to use this project to make your own Portfolio. 🍯
 
 
 # Screenshots
-![image](https://user-images.githubusercontent.com/109848153/216840410-1d88d372-f091-4fb4-a0c1-844e87a3add5.png)
+![image](https://user-images.githubusercontent.com/109848153/217097461-e7b56d43-7e0d-4d6b-8038-074fdb8e595f.png)
+
+# ADD v1.1
+
+> progress bar
