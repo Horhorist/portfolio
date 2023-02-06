@@ -7,8 +7,8 @@ Feel free to use this project to make your own Portfolio. 🍯
 
 
 # Screenshots
-![image](https://user-images.githubusercontent.com/109848153/217097461-e7b56d43-7e0d-4d6b-8038-074fdb8e595f.png)
+![image](https://user-images.githubusercontent.com/109848153/217098256-0089b41b-4eb9-434b-a6d5-40ef5de5c0ef.png)
 
 # ADD v1.1
-
-> progress bar
+> Dazai in "container".
+> Add progress bar
