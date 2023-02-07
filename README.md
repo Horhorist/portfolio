@@ -11,4 +11,5 @@ Feel free to use this project to make your own Portfolio. 🍯
 
 # ADD v1.1
 > Dazai in "container".
+
 > Add progress bar
