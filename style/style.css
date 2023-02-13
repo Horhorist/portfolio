@@ -5,14 +5,7 @@ body{
     background-image: url("../foto/backgroundimage.png");
 }
 
-:root{
-    cursor: url("cursor/ccursor.png") 0 0, auto;
-}
 
-a:hover{
-    cursor: url("cursor/pointer.png") 0 0, pointer;
-
-}
 
 
 
