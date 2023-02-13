@@ -2,7 +2,7 @@
 
 body{
     background-color: #3B3F41;
-    background-image: url("foto/backgroundimage.png");
+    background-image: url("../foto/backgroundimage.png");
 }
 
 :root{
