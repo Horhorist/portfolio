@@ -1,0 +1,11 @@
+:root{
+    cursor: url("ccursor.png") 0 0, auto;
+}
+
+button{
+    cursor: url("pointer.png") 0 0, auto;
+}
+
+a{
+    cursor: url("pointer.png") 0 0, auto;
+}
