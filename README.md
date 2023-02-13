@@ -1,4 +1,4 @@
-# portfolio v1.1
+# portfolio v1.2
 You can easily have a beautiful and simple design one page portfolio🎈
 
 Feel free to use this project to make your own Portfolio. 🍯
@@ -13,3 +13,8 @@ Feel free to use this project to make your own Portfolio. 🍯
 > Dazai in "container".
 
 > Add progress bar
+
+# ADD V1.2
+> Custom Cursor. 
+
+> bugs fixed
